@@ -1,4 +1,4 @@
-# HR Assistant RAG Chatbot (FAISS + Flask + OpenAI)
+# HR Assistant RAG Chatbot (FAISS + Flask + OpenAI) updated 
 
 A production-ready HR Assistant chatbot powered by Retrieval-Augmented Generation (RAG) using [FAISS](https://github.com/facebookresearch/faiss), [OpenAI/Azure OpenAI](https://platform.openai.com/docs/), and Flask.
 
